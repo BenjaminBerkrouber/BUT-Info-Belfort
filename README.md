@@ -1,3 +1,3 @@
 # BUT-Info-Belfort
 
-![portfolio]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://logowik.com/content/uploads/images/adobe-portfolio8664.jpg))
+<img src="https://static-00.iconduck.com/assets.00/adobe-portfolio-icon-256x256-e17ixwne.png"  class="tag" data="portfolio"  width="50" height="50">
